@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODOAPP</string>
+    <string name="add_note">ADD NOTE</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_decription">Enter the decription</string>
+    <string name="enter_the_description" />
+    <string name="Enter_the_description">Enter_the_description</string>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>
